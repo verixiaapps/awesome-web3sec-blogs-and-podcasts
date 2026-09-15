@@ -36,4 +36,5 @@ Welcome to a curated collection of blogs and podcasts focused on Web3 security. 
 | [Cyfrin Audits](https://x.com/CyfrinAudits) | [Spotify](https://open.spotify.com/show/45aUdY9eDwYyE9EZzPaig4) |
 | [Blockchain Security Series](https://x.com/SecuritySeries) | [Podcasts](https://linktr.ee/blockchainss) |
 | [The Bytecode](https://x.com/the_bytecode) | [YouTube](https://www.youtube.com/@shafu0x) |
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 
